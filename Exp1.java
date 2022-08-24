@@ -9,3 +9,5 @@ public class Exp1 {
     System.out.println(Math.pow(a,2) + Math.pow(b,2));
     }
 }
+// Гіпотенуза
+// Дано два числа a та b. Знайдіть гіпотенузу трикутника із заданими катетами.
