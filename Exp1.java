@@ -6,7 +6,7 @@ public class Exp1 {
     int a = sc.nextInt();
     System.out.print("Введите число:");
     int b = sc.nextInt();
-    System.out.println(Math.pow(a,2) + Math.pow(b,2));
+    System.out.println(Math.sqrt(Math.pow(a,2) + Math.pow(b,2)));
     }
 }
 // Гіпотенуза
